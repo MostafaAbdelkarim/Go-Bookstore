@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="github.com/MostafaAbdelkarim/Go-Bookstore/main/resources/Banner/banner.png"></p>
+<p align="center"><img width=100% src="/main/resources/Banner/banner.png"></p>
 
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
