@@ -3,7 +3,7 @@ package routes
 //importing controllers file to as it is the second stop after user sends requests through routes which then passed to model file then passed to DB through GORM
 //gorilla/mux -> implements a request router and dispatcher for matching incoming requests to their respective handler
 import (
-	"github.com/MostafaAbdelkarim/go-bookstore/pkg/controllers"
+	"github.com/MostafaAbdelkarim/go-bookstore/controllers"
 	"github.com/gorilla/mux"
 )
 

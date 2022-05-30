@@ -2,7 +2,7 @@ package models
 
 //importing gorm and config file
 import (
-	"github.com/MostafaAbdelkarim/go-bookstore/pkg/config"
+	"github.com/MostafaAbdelkarim/go-bookstore/config"
 	"github.com/jinzhu/gorm"
 )
 
